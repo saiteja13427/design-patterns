@@ -1,5 +1,4 @@
 # SOLID Principles
----
 
 **Single Responsibility Principle:** Basically each class, function etc should have a single responsibility and the concerns needs to be separated.
 
